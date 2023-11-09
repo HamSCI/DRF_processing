@@ -17,3 +17,5 @@ Example:
 python3 plotspectrum_V4a.py -f C:\\temp\\OBS2023-11-01T00-00 -p C:\\temp\\myplotfile.png
 
 The escape sequences "\\" are mandatory for Python.
+
+Refer to docs/An Introduction to Digital RF.pdf to understand DRF dataset structure.
